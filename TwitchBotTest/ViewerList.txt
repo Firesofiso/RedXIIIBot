@@ -1,0 +1,15 @@
+{
+  "_links": {},
+  "chatter_count": 2,
+  "chatters": {
+    "moderators": [
+      "firesofiso"
+    ],
+    "staff": [],
+    "admins": [],
+    "global_mods": [],
+    "viewers": [
+      "revlobot"
+    ]
+  }
+}
